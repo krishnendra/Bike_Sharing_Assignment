@@ -34,7 +34,7 @@ Based on various meteorological surveys and people's styles, the service provide
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- The model works with 14 features 
+- The model works with 13 features and 1 target variable 
 - OLS Regression Results                            
 
 | Variable         | value            | Variable           | Value     |
